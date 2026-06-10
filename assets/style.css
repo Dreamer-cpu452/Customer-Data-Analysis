@@ -1,0 +1,50 @@
+.stApp{
+    background: linear-gradient(135deg,#0f172a,#1e293b,#111827);
+    color:white;
+}
+
+[data-testid="stSidebar"]{
+    background:#020617;
+}
+
+h1{
+    color:#38bdf8;
+    text-align:center;
+}
+
+h2,h3{
+    color:#60a5fa;
+}
+
+[data-testid="stMetric"]{
+    background:#1e293b;
+    padding:15px;
+    border-radius:15px;
+    border:1px solid #3b82f6;
+}
+
+.stDataFrame{
+    border-radius:15px;
+}
+.stMetric {
+    background-color: #1e293b;
+    padding: 15px;
+    border-radius: 12px;
+    border: 1px solid #334155;
+}
+
+.stInfo {
+    border-radius: 12px;
+}
+
+.stSuccess {
+    border-radius: 12px;
+}
+
+.stWarning {
+    border-radius: 12px;
+}
+
+h1,h2,h3,h4{
+    color:#ffffff;
+}
